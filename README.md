@@ -22,6 +22,10 @@ A [python package](https://github.com/voytekresearch/pacpy) for calculating the 
 
 [How to do](https://github.com/voytekresearch/tutorials) common Voytek Lab analyses
 
+## rvandermeij_voytek
+
+Minor code (https://github.com/voytekresearch/rvandermeij_voytek) shared by Roemer
+
 ## Papers
 
 ### Cole_2017
