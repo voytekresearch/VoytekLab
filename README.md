@@ -24,7 +24,7 @@ A [python package](https://github.com/voytekresearch/pacpy) for calculating the 
 
 ## rvandermeij_voytek
 
-Minor code (https://github.com/voytekresearch/rvandermeij_voytek) shared by Roemer
+Minor [code](https://github.com/voytekresearch/rvandermeij_voytek) shared by Roemer
 
 ## Papers
 
