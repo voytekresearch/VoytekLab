@@ -10,7 +10,7 @@ A [python package](https://github.com/voytekresearch/neurodsp) for common analys
 
 ### fakespikes
 
-A [python package](https://github.com/voytekresearch/pacpy) for simulating statistical spiking models
+A [python package](https://github.com/voytekresearch/fakespikes) for simulating statistical spiking models
 
 ### pacpy
 
@@ -30,9 +30,17 @@ Minor [code](https://github.com/voytekresearch/rvandermeij_voytek) shared by Roe
 
 ## Papers
 
-### Cole_2017
+### Cole 2017, Journal of Neuroscience
 
 A [repository](https://github.com/voytekresearch/Cole_2017) with code and data used in [Cole et al., 2017](http://www.jneurosci.org/content/37/18/4830), entitled "Nonsinusoidal beta oscillations reflect cortical pathophysiology in Parkinson's disease"
+
+### Gao 2017, NeuroImage
+
+A [repository](https://github.com/voytekresearch/eislope) with code and data used in [Gao et al., 2017](http://www.sciencedirect.com/science/article/pii/S1053811917305621), entitled "Inferring synaptic excitation/inhibition balance from field potentials"
+
+### Gao 2017, Cognitive Science Meeting
+A [repository](https://github.com/voytekresearch/identitycrisis) with code and data used in [Gao et al., 2017](https://mindmodeling.org/cogsci2017/papers/0395/index.html), entitled "Automated Generation of Cognitive Ontology via Web Text-Mining"
+
 
 ## Archived
 
