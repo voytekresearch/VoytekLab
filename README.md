@@ -2,19 +2,27 @@
 
 The who, what, and where of Voytek Lab repositories.
 
-## Code
+## Code 
+
+### fooof
+
+A [python package](https://github.com/voytekresearch/fooof) for parameterizing neural power spectra.
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
+[![Latest Version](https://img.shields.io/pypi/v/fooof.svg)](https://pypi.python.org/pypi/fooof/)
+[![Build Status](https://travis-ci.org/voytekresearch/fooof.svg)](https://travis-ci.org/voytekresearch/fooof)
+[![Supported Python Versions](https://img.shields.io/pypi/pyversions/fooof.svg)](https://pypi.python.org/pypi/fooof/)
 
 ### neurodsp
 
-A [python package](https://github.com/voytekresearch/neurodsp) for common analyses on neural time series
+A [python package](https://github.com/voytekresearch/neurodsp) for common analyses on neural time series. 
 
 ### fakespikes
 
-A [python package](https://github.com/voytekresearch/fakespikes) for simulating statistical spiking models
+A [python package](https://github.com/voytekresearch/fakespikes) for simulating statistical spiking models. 
 
 ### pacpy
 
-A [python package](https://github.com/voytekresearch/pacpy) for calculating the any different ways to measure phase-amplitude coupling
+A [python package](https://github.com/voytekresearch/pacpy) for calculating the any different ways to measure phase-amplitude coupling. 
 
 ### chinoise
 
