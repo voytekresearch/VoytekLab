@@ -22,7 +22,7 @@ A [python package](https://github.com/voytekresearch/neurodsp) for common analys
 [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](http://www.repostatus.org/badges/latest/inactive.svg)](http://www.repostatus.org/#inactive)
 [![Latest Version](https://img.shields.io/pypi/v/pacpy.svg)](https://pypi.python.org/pypi/pacpy/)
 
-A [python package](https://github.com/voytekresearch/pacpy) for calculating the any different ways to measure phase-amplitude coupling. 
+A [python package](https://github.com/voytekresearch/pacpy) for calculating the any different ways to measure phase-amplitude coupling. There is also a [matlab wrapper](https://github.com/voytekresearch/pacmat). 
 
 ## Packages in development
 
