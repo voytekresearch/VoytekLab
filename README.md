@@ -10,7 +10,7 @@ The following are stable and open-source programming packages developed and rele
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 [![Latest Version](https://img.shields.io/pypi/v/fooof.svg)](https://pypi.python.org/pypi/fooof/)
 
-A [python package](https://github.com/voytekresearch/fooof) for parameterizing neural power spectra.
+A [python package](https://github.com/voytekresearch/fooof) for parameterizing neural power spectra. There is also [Matlab wrapper](https://github.com/voytekresearch/fooof_mat).
 
 ### neurodsp
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
