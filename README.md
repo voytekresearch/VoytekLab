@@ -10,7 +10,7 @@ The following are stable and open-source programming packages developed and rele
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 [![Latest Version](https://img.shields.io/pypi/v/fooof.svg)](https://pypi.python.org/pypi/fooof/)
 
-A [python package](https://github.com/voytekresearch/fooof) for parameterizing neural power spectra. There is also [Matlab wrapper](https://github.com/voytekresearch/fooof_mat).
+A [python package](https://github.com/voytekresearch/fooof) for parameterizing neural power spectra.
 
 ### neurodsp
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
@@ -22,7 +22,7 @@ A [python package](https://github.com/voytekresearch/neurodsp) for common analys
 [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](http://www.repostatus.org/badges/latest/inactive.svg)](http://www.repostatus.org/#inactive)
 [![Latest Version](https://img.shields.io/pypi/v/pacpy.svg)](https://pypi.python.org/pypi/pacpy/)
 
-A [python package](https://github.com/voytekresearch/pacpy) for calculating the any different ways to measure phase-amplitude coupling. There is also a [matlab wrapper](https://github.com/voytekresearch/pacmat). 
+A [python package](https://github.com/voytekresearch/pacpy) for calculating the any different ways to measure phase-amplitude coupling. 
 
 ## Packages in development
 
@@ -47,6 +47,10 @@ We have developed a set of [tutorial notebooks](https://github.com/voytekresearc
 Minor [code](https://github.com/voytekresearch/rvandermeij_voytek) shared by Roemer. 
 
 ## Paper Related Repositories
+
+### Cole 2018, biorxiv
+
+A [repository](https://github.com/voytekresearch/Cole_2018_cyclebycycle) with code used in [Cole & Voytek, 2018](https://www.biorxiv.org/content/early/2018/04/16/302000), entitled "Cycle-by-cycle analysis of neural oscillations".
 
 ### Cole 2017, Journal of Neuroscience
 
