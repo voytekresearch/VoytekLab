@@ -22,7 +22,9 @@ A [python package](https://github.com/voytekresearch/neurodsp) for common analys
 [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](http://www.repostatus.org/badges/latest/inactive.svg)](http://www.repostatus.org/#inactive)
 [![Latest Version](https://img.shields.io/pypi/v/pacpy.svg)](https://pypi.python.org/pypi/pacpy/)
 
-A [python package](https://github.com/voytekresearch/pacpy) for calculating the any different ways to measure phase-amplitude coupling. 
+A [python package](https://github.com/voytekresearch/pacpy) for calculating the any different ways to measure phase-amplitude coupling.
+
+A MATLAB wrapper for this package was made and is available as [pacmat](https://github.com/voytekresearch/pacmat)
 
 ## Packages in development
 
@@ -48,7 +50,11 @@ Minor [code](https://github.com/voytekresearch/rvandermeij_voytek) shared by Roe
 
 ## Paper Related Repositories
 
-### Cole 2018, biorxiv
+### Cole 2018b, biorxiv
+
+A [repository](https://github.com/voytekresearch/Cole_2018_theta) with code used in [Cole & Voytek, 2018](https://www.biorxiv.org/content/early/2018/10/25/452987), entitled "Hippocampal theta bursting and waveform shape reflect CA1 spiking patterns".
+
+### Cole 2018a, biorxiv
 
 A [repository](https://github.com/voytekresearch/Cole_2018_cyclebycycle) with code used in [Cole & Voytek, 2018](https://www.biorxiv.org/content/early/2018/04/16/302000), entitled "Cycle-by-cycle analysis of neural oscillations".
 
@@ -68,4 +74,4 @@ A [repository](https://github.com/voytekresearch/identitycrisis) with code and d
 
 ### misshapen
 
-A [python package](https://github.com/voytekresearch/misshapen) for quantifying the waveform shape of neural oscillations. This packaged has now been collapsed into [neurodsp](https://github.com/voytekresearch/neurodsp)
+A [python package](https://github.com/voytekresearch/misshapen) for quantifying the waveform shape of neural oscillations. This packaged has now been collapsed into [bycycle](https://github.com/voytekresearch/bycycle)
