@@ -2,6 +2,14 @@
 
 The who, what, and where of Voytek Lab repositories.
 
+## Table of Contents
+
+- [Open Source Packages](#open-source-packages)
+- [Packages in Developemnt](#packages-in-development)
+- [Tutorials](#tutorials)
+- [Paper Related Repositories](#paper-related-repositories)
+- [Archived](#archived)
+
 ## Open-Source Packages
 
 The following are stable and open-source programming packages developed and released by the Voytek Lab. 
@@ -10,13 +18,21 @@ The following are stable and open-source programming packages developed and rele
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 [![Latest Version](https://img.shields.io/pypi/v/fooof.svg)](https://pypi.python.org/pypi/fooof/)
 
-A [python package](https://github.com/voytekresearch/fooof) for parameterizing neural power spectra.
+A [python package](https://github.com/fooof-tools/fooof) for parameterizing neural power spectra.
+
+This package also has a [Matlab wrapper](https://github.com/fooof-tools/fooof_mat). 
 
 ### neurodsp
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 [![Latest Version](https://img.shields.io/pypi/v/neurodsp.svg)](https://pypi.python.org/pypi/neurodsp/)
 
-A [python package](https://github.com/voytekresearch/neurodsp) for common analyses on neural time series. 
+A [python package](https://github.com/voytekresearch/neurodsp) for common analyses on neural time series.
+
+### bycycle
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
+[![Latest Version](https://img.shields.io/pypi/v/bycycle.svg)](https://pypi.python.org/pypi/bycycle/)
+
+A [python package](https://github.com/voytekresearch/bycycle) for cycle-by-cycle analysis of waveforms.
 
 ### pacpy
 [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](http://www.repostatus.org/badges/latest/inactive.svg)](http://www.repostatus.org/#inactive)
@@ -68,7 +84,6 @@ A [repository](https://github.com/voytekresearch/eislope) with code and data use
 
 ### Gao 2017, Cognitive Science Meeting
 A [repository](https://github.com/voytekresearch/identitycrisis) with code and data used in [Gao et al., 2017](https://mindmodeling.org/cogsci2017/papers/0395/index.html), entitled "Automated Generation of Cognitive Ontology via Web Text-Mining".
-
 
 ## Archived
 
