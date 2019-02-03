@@ -18,7 +18,9 @@ The following are stable and open-source programming packages developed and rele
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 [![Latest Version](https://img.shields.io/pypi/v/fooof.svg)](https://pypi.python.org/pypi/fooof/)
 
-A [python package](https://github.com/fooof-tools/fooof) for parameterizing neural power spectra.
+A python package for parameterizing neural power spectra.
+
+[Home Page](https://fooof-tools.github.io/fooof/) - [Github](https://github.com/fooof-tools/fooof)
 
 This package also has a [Matlab wrapper](https://github.com/fooof-tools/fooof_mat). 
 
@@ -26,13 +28,17 @@ This package also has a [Matlab wrapper](https://github.com/fooof-tools/fooof_ma
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 [![Latest Version](https://img.shields.io/pypi/v/neurodsp.svg)](https://pypi.python.org/pypi/neurodsp/)
 
-A [python package](https://github.com/voytekresearch/neurodsp) for common analyses on neural time series.
+A python package for analyzing neural time series.
+
+[Home Page](https://neurodsp-tools.github.io/neurodsp/) - [Github](https://github.com/neurodsp-tools/neurodsp)
 
 ### bycycle
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 [![Latest Version](https://img.shields.io/pypi/v/bycycle.svg)](https://pypi.python.org/pypi/bycycle/)
 
-A [python package](https://github.com/voytekresearch/bycycle) for cycle-by-cycle analysis of waveforms.
+A python package for cycle-by-cycle analysis of waveforms.
+
+[Home Page](https://bycycle-tools.github.io/bycycle/) - [Github](https://github.com/bycycle-tools/bycycle)
 
 ### pacpy
 [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](http://www.repostatus.org/badges/latest/inactive.svg)](http://www.repostatus.org/#inactive)
@@ -56,7 +62,7 @@ A [python package](https://github.com/voytekresearch/chinoise) for creating simp
 
 ## Tutorials
 
-We have developed a set of [tutorial notebooks](https://github.com/voytekresearch/tutorials) that cover the basics of the standard analyses related to the kind of research we do. There are also tutorial materials as part of the [neurodsp](https://github.com/voytekresearch/neurodsp/tree/master/tutorials) and [fooof](https://github.com/voytekresearch/fooof/tree/master/tutorial) pacakages. 
+We have developed a set of [tutorial notebooks](https://github.com/voytekresearch/tutorials) that cover the basics of the standard analyses related to the kind of research we do. For tutorials related to particular software packages, check their docsites. 
 
 ## Other Code
 
