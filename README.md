@@ -56,10 +56,6 @@ The following are open-source programming packages in developement by the Voytek
 
 A [python package](https://github.com/voytekresearch/fakespikes) for simulating statistical spiking models. 
 
-### chinoise
-
-A [python package](https://github.com/voytekresearch/chinoise) for creating simple LFP simulations, with 1/f noise.
-
 ## Tutorials
 
 We have developed a set of [tutorial notebooks](https://github.com/voytekresearch/tutorials) that cover the basics of the standard analyses related to the kind of research we do. For tutorials related to particular software packages, check their docsites. 
