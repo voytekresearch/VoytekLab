@@ -40,14 +40,6 @@ A python package for cycle-by-cycle analysis of waveforms.
 
 [Home Page](https://bycycle-tools.github.io/bycycle/) - [Github](https://github.com/bycycle-tools/bycycle)
 
-### pacpy
-[![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](http://www.repostatus.org/badges/latest/inactive.svg)](http://www.repostatus.org/#inactive)
-[![Latest Version](https://img.shields.io/pypi/v/pacpy.svg)](https://pypi.python.org/pypi/pacpy/)
-
-A [python package](https://github.com/voytekresearch/pacpy) for calculating the any different ways to measure phase-amplitude coupling.
-
-A MATLAB wrapper for this package was made and is available as [pacmat](https://github.com/voytekresearch/pacmat)
-
 ## Packages in development
 
 The following are open-source programming packages in developement by the Voytek lab. 
@@ -64,19 +56,23 @@ We have developed a set of [tutorial notebooks](https://github.com/voytekresearc
 
 ### rvandermeij_voytek
 
-Minor [code](https://github.com/voytekresearch/rvandermeij_voytek) shared by Roemer. 
+Minor [code](https://github.com/voytekresearch/rvandermeij_voytek) shared by Roemer van der Meij. 
 
 ## Paper Related Repositories
+
+### Donoghue, Dominguez & Voytek 2020, biorxiv
+
+A [repository](https://github.com/voytekresearch/BandRatios) with code used in [Donoghue, Dominguez & Voytek, 2020](https://doi.org/10.1101/2020.01.11.900977) entitled "Electrophysiological Frequency Band Ratio Measures Conflate Periodic and Aperiodic Neural Activity".
 
 ### Cole 2018b, biorxiv
 
 A [repository](https://github.com/voytekresearch/Cole_2018_theta) with code used in [Cole & Voytek, 2018](https://www.biorxiv.org/content/early/2018/10/25/452987), entitled "Hippocampal theta bursting and waveform shape reflect CA1 spiking patterns".
 
-### Cole 2018a, biorxiv
+### Cole & Voytek 2018a, Journal of Neurophysiology
 
-A [repository](https://github.com/voytekresearch/Cole_2018_cyclebycycle) with code used in [Cole & Voytek, 2018](https://www.biorxiv.org/content/early/2018/04/16/302000), entitled "Cycle-by-cycle analysis of neural oscillations".
+A [repository](https://github.com/voytekresearch/Cole_2018_cyclebycycle) with code used in [Cole & Voytek, 2018](https://doi.org/10.1152/jn.00273.2019), entitled "Cycle-by-cycle analysis of neural oscillations".
 
-### Cole 2017, Journal of Neuroscience
+### Cole et al 2017, Journal of Neuroscience
 
 A [repository](https://github.com/voytekresearch/Cole_2017) with code and data used in [Cole et al., 2017](http://www.jneurosci.org/content/37/18/4830), entitled "Nonsinusoidal beta oscillations reflect cortical pathophysiology in Parkinson's disease".
 
@@ -92,3 +88,11 @@ A [repository](https://github.com/voytekresearch/identitycrisis) with code and d
 ### misshapen
 
 A [python package](https://github.com/voytekresearch/misshapen) for quantifying the waveform shape of neural oscillations. This packaged has now been collapsed into [bycycle](https://github.com/voytekresearch/bycycle)
+
+### pacpy
+[![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](http://www.repostatus.org/badges/latest/inactive.svg)](http://www.repostatus.org/#inactive)
+[![Latest Version](https://img.shields.io/pypi/v/pacpy.svg)](https://pypi.python.org/pypi/pacpy/)
+
+A [python package](https://github.com/voytekresearch/pacpy) for calculating the any different ways to measure phase-amplitude coupling.
+
+A MATLAB wrapper for this package was made and is available as [pacmat](https://github.com/voytekresearch/pacmat)
