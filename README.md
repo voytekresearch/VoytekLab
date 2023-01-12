@@ -57,7 +57,7 @@ A [repository](http://github.com/nschawor/eeg-infants-exponent) with code used i
 ### Donoghue, Schaworonkow, Voytek, European Journal of Neuroscience 2021
 A [repository](https://github.com/OscillationMethods/OscillationMethods) with code used in [Donoghue, Schaworonkow, Voytek, 2021](https://doi.org/10.1111/ejn.15361) entitled "Methodological considerations for studying neural oscillations".
 
-### Schaworonkow & Voytek,PLOS Computational Biology 2021a
+### Schaworonkow & Voytek, PLOS Computational Biology 2021a
 A [repository](https://github.com/nschawor/ieeg-spatial-filters-ssd) with code used in [Schaworonkow & Voytek, 2021a](https://doi.org/10.1371/journal.pcbi.1009298) entitled "Enhancing oscillations in intracranial electrophysiological recordings with data-driven spatial filters".
 
 ### Donoghue, Haller, Peterson, et al., Nature Neuroscience 2020
