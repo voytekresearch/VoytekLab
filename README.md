@@ -39,30 +39,47 @@ We have developed a set of [tutorial notebooks](https://github.com/voytekresearc
 
 ## Paper Related Repositories
 
-### Donoghue, Schaworonkow & Voytek 2021, European Journal of Neuroscience
+### Smith, Kosik, van Engen, et al., medRxiv 2023
+A [repository](https://github.com/voytekresearch/ECT-MST) with code used in [Smith et al., 2023](LINLKLINK) entitled "Magnetic seizure therapy and electroconvulsive therapy increase frontal aperiodic activity".
 
-A [repository](https://github.com/OscillationMethods/OscillationMethods) with code used in [Donoghue, Schaworonkow, & Voytek, 2021](https://doi.org/10.1111/ejn.15361) entitled "Methodological considerations for studying neural oscillations".
+### Smith, et al., medRxiv 2022
+A [repository](https://github.com/voytekresearch/smith_ect) with code used in [Smith et al., 2022](https://doi.org/10.1101/2022.04.15.22273811) entitled "Clinical EEG slowing induced by electroconvulsive therapy is better described by increased frontal aperiodic activity".
 
-### Donoghue, Haller, Peterson et al, 2020, Nature Neuro
+### Preston, Schaworonkow, Voytek, bioRxiv 2022
+A [repository](https://github.com/voytekresearch/tilt_vs_fingerprint) with code used in [Preston, Schaworonkow, Voytek, 2022](https://doi.org/10.1101/2022.10.04.509632) entitled "Oscillations and aperiodic activity: Evidence for dynamic changes in both during memory encoding".
 
-A [repository](https://github.com/fooof-tools/Paper) with code used in [Donoghue et al, 2020](https://doi.org/10.1038/s41593-020-00744-x) entitled "Parameterizing neural power spectra into periodic and aperiodic components".
+### Donoghue & Voytek, Scientific Reports 2022
+A [repository](https://github.com/ERPscanr/ERPscanr) with code used in [Donoghue & Voytek, 2022](https://doi.org/10.1038/s41598-022-05939-9) entitled "Automated meta-analysis of the event-related potential (ERP) literature".
 
-### Donoghue, Dominguez & Voytek 2020, eNeuro
+### Schaworonkow & Voytek, Developmental Cognitive Neuroscience 2021b
+A [repository](http://github.com/nschawor/eeg-infants-exponent) with code used in [Schaworonkow & Voytek, 2021b](https://doi.org/10.1016/j.dcn.2020.100895) entitled "Longitudinal changes in aperiodic and periodic activity in electrophysiological recordings in the first seven months of life".
 
-A [repository](https://github.com/voytekresearch/BandRatios) with code used in [Donoghue, Dominguez & Voytek, 2020](https://doi.org/10.1523/ENEURO.0192-20.2020) entitled "Electrophysiological Frequency Band Ratio Measures Conflate Periodic and Aperiodic Neural Activity".
+### Donoghue, Schaworonkow, Voytek, European Journal of Neuroscience 2021
+A [repository](https://github.com/OscillationMethods/OscillationMethods) with code used in [Donoghue, Schaworonkow, Voytek, 2021](https://doi.org/10.1111/ejn.15361) entitled "Methodological considerations for studying neural oscillations".
 
-### Cole 2018b, biorxiv
+### Schaworonkow & Voytek,PLOS Computational Biology 2021a
+A [repository](https://github.com/nschawor/ieeg-spatial-filters-ssd) with code used in [Schaworonkow & Voytek, 2021a](https://doi.org/10.1371/journal.pcbi.1009298) entitled "Enhancing oscillations in intracranial electrophysiological recordings with data-driven spatial filters".
 
+### Donoghue, Haller, Peterson, et al., Nature Neuroscience 2020
+A [repository](https://github.com/fooof-tools/Paper) with code used in [Donoghue et al., 2020](https://doi.org/10.1038/s41593-020-00744-x) entitled "Parameterizing neural power spectra into periodic and aperiodic components".
+
+### Gao et al., eLife 2020
+A [repository](https://github.com/rdgao/field-echos) with code used in [Gao et al., 2020](https://doi.org/10.7554/eLife.61277) entitled "Neuronal timescales are functionally dynamic and shaped by cortical microarchitecture".
+
+### Donoghue, Dominguez, Voytek, eNeuro 2020
+A [repository](https://github.com/voytekresearch/BandRatios) with code used in [Donoghue, Dominguez, Voytek, 2020](https://doi.org/10.1523/ENEURO.0192-20.2020) entitled "Electrophysiological Frequency Band Ratio Measures Conflate Periodic and Aperiodic Neural Activity".
+
+### Trujillo, Gao, Negraes et al., Cell: Stem Cell 2019
+A [repository](https://github.com/voytekresearch/OscillatoryOrganoids) with code used in [Trujillo et al., 2019](https://doi.org/10.1016/j.stem.2019.08.002), entitled "Complex Oscillatory Waves Emerging from Cortical Organoids Model Early Human Brain Network Development".
+
+### Cole & Voytek, Journal of Neurophysiology 2019
+A [repository](https://github.com/voytekresearch/Cole_2018_cyclebycycle) with code used in [Cole & Voytek, 2019](https://doi.org/10.1152/jn.00273.2019), entitled "Cycle-by-cycle analysis of neural oscillations".
+
+### Cole & Voytek, bioRxiv 2018
 A [repository](https://github.com/voytekresearch/Cole_2018_theta) with code used in [Cole & Voytek, 2018](https://www.biorxiv.org/content/early/2018/10/25/452987), entitled "Hippocampal theta bursting and waveform shape reflect CA1 spiking patterns".
 
-### Cole & Voytek 2018a, Journal of Neurophysiology
-
-A [repository](https://github.com/voytekresearch/Cole_2018_cyclebycycle) with code used in [Cole & Voytek, 2018](https://doi.org/10.1152/jn.00273.2019), entitled "Cycle-by-cycle analysis of neural oscillations".
-
-### Cole et al 2017, Journal of Neuroscience
-
+### Cole et al., Journal of Neuroscience 2017
 A [repository](https://github.com/voytekresearch/Cole_2017) with code and data used in [Cole et al., 2017](http://www.jneurosci.org/content/37/18/4830), entitled "Nonsinusoidal beta oscillations reflect cortical pathophysiology in Parkinson's disease".
 
-### Gao 2017, NeuroImage
-
+### Gao, Peterson, Voytek, NeuroImage 2017
 A [repository](https://github.com/voytekresearch/eislope) with code and data used in [Gao et al., 2017](http://www.sciencedirect.com/science/article/pii/S1053811917305621), entitled "Inferring synaptic excitation/inhibition balance from field potentials".
