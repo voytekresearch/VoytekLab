@@ -2,13 +2,6 @@
 
 The who, what, and where of Voytek Lab repositories.
 
-## Table of Contents
-
-- [Open Source Packages](#open-source-packages)
-- [Tutorials](#tutorials)
-- [Paper Related Repositories](#paper-related-repositories)
-- [Archived](#archived)
-
 ## Open-Source Packages
 
 The following are stable and open-source programming packages developed and released by the Voytek Lab. 
@@ -42,7 +35,7 @@ A python package for cycle-by-cycle analysis of waveforms.
 
 ## Tutorials
 
-We have developed a set of [tutorial notebooks](https://github.com/voytekresearch/tutorials) that cover the basics of the standard analyses related to the kind of research we do. For tutorials related to particular software packages, check their docsites. 
+We have developed a set of [tutorial notebooks](https://github.com/voytekresearch/spr2022) that we developed for a workshop that we ran at the 2022 Society for Psychohysiological Research Conference in Vancouver, Canada. These cover the basics of the standard analyses related to the kind of research we do. For tutorials related to particular software packages, check their docsites. 
 
 ## Paper Related Repositories
 
