@@ -40,7 +40,7 @@ We have developed a set of [tutorial notebooks](https://github.com/voytekresearc
 ## Paper Related Repositories
 
 ### Smith, Kosik, van Engen, et al., medRxiv 2023
-A [repository](https://github.com/voytekresearch/ECT-MST) with code used in [Smith et al., 2023](LINLKLINK) entitled "Magnetic seizure therapy and electroconvulsive therapy increase frontal aperiodic activity".
+A [repository](https://github.com/voytekresearch/ECT-MST) with code used in [Smith et al., 2023](https://www.medrxiv.org/content/10.1101/2023.01.11.23284450v1) entitled "Magnetic seizure therapy and electroconvulsive therapy increase frontal aperiodic activity".
 
 ### Smith, et al., medRxiv 2022
 A [repository](https://github.com/voytekresearch/smith_ect) with code used in [Smith et al., 2022](https://doi.org/10.1101/2022.04.15.22273811) entitled "Clinical EEG slowing induced by electroconvulsive therapy is better described by increased frontal aperiodic activity".
