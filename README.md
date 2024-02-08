@@ -35,15 +35,15 @@ A python package for cycle-by-cycle analysis of waveforms.
 
 ## Tutorials
 
-We have developed a set of [tutorial notebooks](https://github.com/voytekresearch/spr2022) that we developed for a workshop that we ran at the 2022 Society for Psychohysiological Research Conference in Vancouver, Canada. These cover the basics of the standard analyses related to the kind of research we do. For tutorials related to particular software packages, check their docsites. 
+We have developed a set of [tutorial notebooks](https://github.com/voytekresearch/spr) that we developed for a workshop that we ran at the 2022 and 2023 Society for Psychohysiological Research Conference in Vancouver, Canada. These cover the basics of the standard analyses related to the kind of research we do. For tutorials related to particular software packages, check their docsites. 
 
 ## Paper Related Repositories
 
-### Smith, Kosik, van Engen, et al., medRxiv 2023
-A [repository](https://github.com/voytekresearch/ECT-MST) with code used in [Smith et al., 2023](https://www.medrxiv.org/content/10.1101/2023.01.11.23284450v1) entitled "Magnetic seizure therapy and electroconvulsive therapy increase frontal aperiodic activity".
+### Smith, Kosik, van Engen, et al., Translat Psychiatry 2023
+A [repository](https://github.com/voytekresearch/ECT-MST) with code used in [Smith et al., 2023](https://www.nature.com/articles/s41398-023-02631-y) entitled "Magnetic seizure therapy and electroconvulsive therapy increase aperiodic activity".
 
-### Smith, et al., medRxiv 2022
-A [repository](https://github.com/voytekresearch/smith_ect) with code used in [Smith et al., 2022](https://doi.org/10.1101/2022.04.15.22273811) entitled "Clinical EEG slowing induced by electroconvulsive therapy is better described by increased frontal aperiodic activity".
+### Smith, et al., Translat Psychiatry 2023
+A [repository](https://github.com/voytekresearch/smith_ect) with code used in [Smith, Kosik, van Engen, et al., 2022](https://www.nature.com/articles/s41398-023-02634-9) entitled "Clinical EEG slowing induced by electroconvulsive therapy is better described by increased frontal aperiodic activity".
 
 ### Preston, Schaworonkow, Voytek, bioRxiv 2022
 A [repository](https://github.com/voytekresearch/tilt_vs_fingerprint) with code used in [Preston, Schaworonkow, Voytek, 2022](https://doi.org/10.1101/2022.10.04.509632) entitled "Oscillations and aperiodic activity: Evidence for dynamic changes in both during memory encoding".
