@@ -43,7 +43,7 @@ We have developed a set of [tutorial notebooks](https://github.com/voytekresearc
 A [repository](https://github.com/voytekresearch/ECT-MST) with code used in [Smith et al., 2023](https://www.nature.com/articles/s41398-023-02631-y) entitled "Magnetic seizure therapy and electroconvulsive therapy increase aperiodic activity".
 
 ### Smith, et al., Translat Psychiatry 2023
-A [repository](https://github.com/voytekresearch/smith_ect) with code used in [Smith, Kosik, van Engen, et al., 2022](https://www.nature.com/articles/s41398-023-02634-9) entitled "Clinical EEG slowing induced by electroconvulsive therapy is better described by increased frontal aperiodic activity".
+A [repository](https://github.com/voytekresearch/smith_ect) with code used in [Smith, Kosik, van Engen, et al., 2023](https://www.nature.com/articles/s41398-023-02634-9) entitled "Clinical EEG slowing induced by electroconvulsive therapy is better described by increased frontal aperiodic activity".
 
 ### Preston, Schaworonkow, Voytek, bioRxiv 2022
 A [repository](https://github.com/voytekresearch/tilt_vs_fingerprint) with code used in [Preston, Schaworonkow, Voytek, 2022](https://doi.org/10.1101/2022.10.04.509632) entitled "Oscillations and aperiodic activity: Evidence for dynamic changes in both during memory encoding".
