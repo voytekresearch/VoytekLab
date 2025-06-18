@@ -39,14 +39,14 @@ We have developed a set of [tutorial notebooks](https://github.com/voytekresearc
 
 ## Paper Related Repositories
 
+### Preston, Schaworonkow, Voytek, Journal of Neuroscience 2025
+A [repository](https://github.com/voytekresearch/oscillation_vs_exponent) with code used in [Preston, Schaworonkow, Voytek, 2025](https://doi.org/10.1523/JNEUROSCI.2404-24.2025) entitled "Time-Resolved Aperiodic and Oscillatory Dynamics during Human Visual Memory Encoding".
+
 ### Smith, Kosik, van Engen, et al., Translat Psychiatry 2023
 A [repository](https://github.com/voytekresearch/ECT-MST) with code used in [Smith et al., 2023](https://www.nature.com/articles/s41398-023-02631-y) entitled "Magnetic seizure therapy and electroconvulsive therapy increase aperiodic activity".
 
 ### Smith, et al., Translat Psychiatry 2023
 A [repository](https://github.com/voytekresearch/smith_ect) with code used in [Smith, Kosik, van Engen, et al., 2023](https://www.nature.com/articles/s41398-023-02634-9) entitled "Clinical EEG slowing induced by electroconvulsive therapy is better described by increased frontal aperiodic activity".
-
-### Preston, Schaworonkow, Voytek, Journal of Neuroscience 2025
-A [repository](https://github.com/voytekresearch/oscillation_vs_exponent) with code used in [Preston, Schaworonkow, Voytek, 2025](https://doi.org/10.1523/JNEUROSCI.2404-24.2025) entitled "Time-Resolved Aperiodic and Oscillatory Dynamics during Human Visual Memory Encoding".
 
 ### Donoghue & Voytek, Scientific Reports 2022
 A [repository](https://github.com/ERPscanr/ERPscanr) with code used in [Donoghue & Voytek, 2022](https://doi.org/10.1038/s41598-022-05939-9) entitled "Automated meta-analysis of the event-related potential (ERP) literature".
