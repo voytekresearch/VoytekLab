@@ -39,6 +39,9 @@ We have developed a set of [tutorial notebooks](https://github.com/voytekresearc
 
 ## Paper Related Repositories
 
+### van Engen, Chau, Smith, Adam, Donoghue, Voytek, Journal Neuroscience 2025
+A [repository](https://github.com/voytekresearch/WM_specparam) with code in [van Engen, Chau, Smith, Adam, Donoghue, Voytek, 2025; Biorxiv for now](https://www.biorxiv.org/content/10.1101/2024.12.16.628786v2) entitled "Dissociating Contributions of Theta and Alpha Oscillations from Aperiodic Neural Activity in Human Visual Working Memory"
+
 ### Preston, Schaworonkow, Voytek, Journal of Neuroscience 2025
 A [repository](https://github.com/voytekresearch/oscillation_vs_exponent) with code used in [Preston, Schaworonkow, Voytek, 2025](https://doi.org/10.1523/JNEUROSCI.2404-24.2025) entitled "Time-Resolved Aperiodic and Oscillatory Dynamics during Human Visual Memory Encoding".
 
